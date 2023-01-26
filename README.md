@@ -1,5 +1,47 @@
 # Tips for Organizational Change
 
+2023 is the twenty-fifth anniversary of the first Software Carpentry workshop
+at Los Alamos National Laboratory [Wilson2016].
+A lot has changed in those years:
+open access journals (like this one) have proven that they can work,
+most scientific research is powered (at least in part) by open source software,
+there is greater awareness and discussion of equity and inclusivity shortcomings,
+and researchers can connect with each other online in ways that only a few visionaries dreamed of.
+
+But a lot of things haven't changed or have gotten worse:
+
+-   A handful of large publishing companies continue to extract exorbitant rents
+    for "allowing" us to read our own work.
+
+-   Most researchers are no more computationally competent than they were in the 1990s,
+    which means that most research is no more reproducible than it was then.
+
+-   Academic life is increasingly arduous, insecure, and under-funded,
+    and "awareness" and "discussion" are only rarely translated into effective action.
+
+-   The tools that have allowed researchers to share ideas
+    have also helped foster and spread anti-scientific disinformation on the climate crisis,
+    vaccines,
+    and hundreds of other topics,
+    leading directly to the loss of millions of lives.
+
+Throughout the last quarter of a century,
+advocates of truth, openness, and fairness have acted as if being right was enough to guarantee victory.
+However, "If you build it, they will come" has never been a winning strategy.
+Systemic change always starts with
+a small group of idealists sharing ideas and building a core constituency,
+but only has impact when people take on the hard work of organizing in the large.
+From women's rights to the struggle for racial equality and the gay rights movement,
+every significant step towards a fairer society
+has required people to challenge authority in numbers too great to be ignored
+[Beckerman2022, Hirshman2012, Ricks2022, Wagner2019].
+
+This paper presents *N* short tips for doing this
+drawn from the authors' experience and from works such as [Alinsky1989, Brown2007, Manns2015].
+We recognize that it is incomplete—in particular,
+that it is stronly biased toward what works in affluent, democratic societies—but
+we hope it will be a useful starting point for those who are tired of rolling heavy rocks up steep hills over and over again.
+
 ## 1) Be sure this is where you want to focus your efforts.
 
 It's going to take years,
@@ -93,3 +135,57 @@ that we don't share the load even when there are people to share it with.
 Not all of your allies will become your friends,
 but those who do will be able to share your victories
 and commiserate with your defeats like no one else.
+
+## Bibliography
+
+<dl class="bibliography">
+
+<dt id="Alinsky1989">Alinsky1989</dt>
+<dd>Saul D. Alinsky.
+<em>Rules for Radicals: A Practical Primer for Realistic Radicals</em>.
+Vintage, 1989.
+ISBN 978-0679721130.</dd>
+
+<dt id="Beckerman2022">Beckerman2022</dt>
+<dd>Gal Beckerman.
+<em>The Quiet Before: On the Unexpected Origins of Radical Ideas</em>.
+Crown, 2022.
+ISBN 978-1524759186.</dd>
+
+<dt id="Brown2007">Brown2007</dt>
+<dd>Michael Jacoby Brown.
+<em>Building Powerful Community Organizations: A Personal Guide to Creating Groups that Can Solve Problems and Change the World</em>.
+Long Haul Press, 2007.
+ISBN 978-0977151806.</dd>
+
+<dt id="Hirshman2012">Hirshman2012</dt>
+<dd>Linda Hirshman.
+<em>Victory: The Triumphant Gay Revolution</em>.
+Harper, 2012.
+ISBN 978-0061965500.</dd>
+
+<dt id="Manns2015">Manns2015</dt>
+<dd>Mary Lynn Manns and Linda Rising.
+<em>Fearless Change: Patterns for Introducing New Ideas</em>.
+Addison-Wesley, 2015.
+ISBN 9780201741575.</dd>
+
+<dt id="Ricks2022">Ricks2022</dt>
+<dd>Thomas E. Ricks.
+<em>Waging a Good War: A Military History of the Civil Rights Movement, 1954-1968</em>.
+Farrar, Straus and Giroux, 2022.
+ISBN 978-0374605162.</dd>
+
+<dt id="Wagner2019">Wagner2019</dt>
+<dd>Sally Roesch Wagner, editor.
+<em>The Women's Suffrage Movement</em>.
+Penguin Classics, 2019.
+ISBN 978-0143132431.</dd>
+
+<dt id="Wilson2016">Wilson2016</dt>
+<dd>Greg Wilson.
+Software carpentry: lessons learned.
+<em><span class="bibtex-protected">F1000Research</span></em>, January 2016.
+URL: <a href="http://dx.doi.org/10.12688/f1000research.3-62.v2">http://dx.doi.org/10.12688/f1000research.3-62.v2</a>, <a href="https://doi.org/10.12688/f1000research.3-62.v2">doi:10.12688/f1000research.3-62.v2</a>.</dd>
+
+</dl>
