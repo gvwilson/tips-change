@@ -1,9 +1,9 @@
-# Tips for Organizational Change
+# Eleven Tips for Organizational Change
 
 2023 is the twenty-fifth anniversary of the first Software Carpentry workshop
 at Los Alamos National Laboratory [Wilson2016].
 A lot has changed in those years:
-open access journals (like this one) have proven that they can work,
+open access journals have proven that they can work,
 most scientific research is powered (at least in part) by open source software,
 there is greater awareness and discussion of equity and inclusivity shortcomings,
 and researchers can connect with each other online in ways that only a few visionaries dreamed of.
@@ -36,10 +36,10 @@ every significant step towards a fairer society
 has required people to challenge authority in numbers too great to be ignored
 [Beckerman2022, Hirshman2012, Ricks2022, Wagner2019].
 
-This paper presents *N* short tips for doing this
+This paper presents eleven short tips for doing this
 drawn from the authors' experience and from works such as [Alinsky1989, Brown2007, Manns2015].
 We recognize that it is incomplete—in particular,
-that it is stronly biased toward what works in affluent, democratic societies—but
+that it is strongly biased toward what works in affluent, democratic societies—but
 we hope it will be a useful starting point for those who are tired of rolling heavy rocks up steep hills over and over again.
 
 ## 1) Be sure this is where you want to focus your efforts.
@@ -48,48 +48,102 @@ It's going to take years,
 it could well fail,
 and there are many other things you could do,
 so be sure this particular change is the one you want to fight for.
+Similarly,
+ask yourself what you care about most:
+making change or the social status that comes from being the founder of something.
+If it's truly the former,
+joining an existing organization will probably be more effective
+than starting one of your own.
 
-## 2)  Ask those who will be affected.
+## 2) Start by playing in someone else's band.
 
-*Nihil pro nobis sine nobis* (nothing for us, without us) is always a good motto,
-and asking for opinions often reveals potential allies.
+The best way to learn how to organize effectively is
+to work with someone who already knows how to do it.
+Pick a cause you believe in and spend a few months or a year helping to move it forward.
+Take notes:
+how did that group's leaders make decisions?
+How did they arrange space for meetings or get permits for rallies?
+Which journalists were sympathetic?
+Which t-shirt printing companies delivered on time?
+Success or failure often depends on getting these operational details right,
+and you can do some good while mastering them.
 
-## 3)  Be specific.
+A corollary to this rule is **don't volunteer for nothing**.
+If you help someone make a documentary,
+it's fair to ask that you be listed in the credits
+so that you will seem more credible when it's your turn to ask people for support.
+Similarly,
+if you show up twice a week for several months to help a city councilor get elected,
+they should be willing to take half an hour to chat with you over a cup of coffee.
+And when you're the one in charge,
+remember how much that coffee chat helped you
+and give *your* supporters some of your time to help them get rolling.
 
-Few people would argue in public against fair hiring practices,
-but the organization has to implement something specific in order for that to mean anything,
+## 3) Ask those who will be affected.
+
+Asking people for their opinions and ideas is a good way to find potential allies,
+and an even better way to avoid making costly mistakes.
+More importantly,
+*nihil pro nobis sine nobis* (nothing for us, without us) should always be your guiding principle.
+History is littered with the wreckage of initiatives whose organizers had good intention
+but tried to fix the wrong problem or tried to fix it the wrong way.
+
+## 4) Be specific.
+
+Few people would argue in public against (for example) fair hiring practices,
+but an organization has to implement something specific in order for that to mean anything,
 and people very well might argue against those specifics.
 You should therefore pick something specific and achievable
 and make a concrete plan for achieving it.
-And start with whatever is likely to have broadest support,
+Start with whatever is likely to have broadest support,
+even if it's small,
 because success breeds success.
 
-## 4)  Figure out who actually has the power to make that change and what they actually care about.
+## 5) Figure out who actually has the power to make that change and what they care about.
 
 Your neighbors don't make policy for your local public school:
-school board trustees do, so that's who you need to influence.
-Help someone who wants the same change as you get elected,
-or help someone who doesn't oppose your change with something they care about in exchange for support for your cause,
-but whatever you do, do it for the people whose vote counts.
-Conversely, figure out who is going to be negatively impacted by the change you want
-and what you can do to help them:
-for example,
-if it's going to eliminate jobs,
-what else can those people usefully do?
+school board trustees do,
+so that's who you need to influence
+if you want (for example) better accommodation for students with learning disabilities
+or updates to the history curriculum.
+Figuring out who can actually implement the change you want is called *power mapping*,
+and you should re-examine it periodically
+to make sure you're still trying to pull the right metaphorical levers.
 
-## 5)  Build alliances
+## 6) Build alliances.
 
-"I'll help you if you'll help me" makes the world go around.
-It's hard when people want the same thing for very different reasons,
-but this rule is *not* cynical:
-people whose beliefs are aligned may still have different priorities.
-(The flip side of this rule is to accept that some people will never be your allies:
-if everyone wanted it, you wouldn't have to push for the change.)
-People who want the same thing you do,
-who have a high profile (either inside your group or externally),
-or who have a wide range of connections are all useful allies.
+People who want the same thing you do
+and who have a wide range of connections
+or a high profile (either inside your group or externally)
+are your useful allies.
+Once you have figured out who they are,
+find out what they want and whether you can help them achieve it.
+"I'll scratch you're back if you'll scratch mine" is not cynical:
+people whose beliefs are aligned may have different priorities,
+and people whose beliefs *aren't* aligned may still make pragmatic alliances.
 
-## 6)  Test the waters.
+Conversely,
+you should also figure out who is going to be negatively impacted by the change you want
+and whether there's anything you can do to help them.
+For example,
+if your change is going to eliminate jobs,
+what else can those people do instead?
+People may recognize that a change is for the better overall
+but still fight against it because it will hurt them;
+showing them that you recognize this
+and are trying to take care of them
+will often defuse their opposition.
+
+Finally,
+you must accept that some people will always see the world differently than you do
+and will never be your allies,
+particularly if the change you want challenges their core beliefs about their identity.
+It's often hard for idealistic people to accept that
+sometimes their opponents cannot be persuaded and must instead be defeated.
+Acknowledging this and acting on it may require more courage
+than any other part of your struggle.
+
+## 7) Test the waters.
 
 At every stage, refine your idea and presentation in front of a small group first.
 But remember:
@@ -99,35 +153,88 @@ And note that it can be useful to ask someone to be the official skeptic:
 giving them a way to critique in private may temper their public criticism,
 and you just might convert them.
 
-## 7)  Keep it visible.
+For example,
+thanks (or "thanks") to conferences moving to 100% online during COVID-19,
+thousands of people were finally able to take part on an equal footing despite visa restrictions,
+not being able to afford to travel to an affluent country,
+needing to stay at home to look after loved ones,
+accessibility challenges,
+and a host of other barriers.
+I watched with dismay as those conferences rushed back to in-person-only in 2022
+despite their organizers' claims of valuing inclusivity.
+In the summer of that year I decided to launch a public pledge:
+if enough people said they would only attend conferences that provided full remote participation,
+maybe that would shame organizers into doing the right thing.
 
-It's easy to start a blog and create a Mastodon account,
+About a third of the people I emailed about this came back with some variation of, "Looks good!"
+Another third came back with detailed comments about the wording of the pledge,
+but the final third responded by saying, "This is a bad idea."
+Some felt the pledge would put people in a no-win situation:
+for example,
+it's basically career suicide for junior academics to *not* go to networking events
+(which is all conferences really are).
+Others felt that focusing on one aspect of inclusivity—remote participation
+via video conferencing—was yet another example of someone treating a social problem
+as a technical one.
+My first reaction was to defend my idea,
+but if you're not willing to change your mind based on feedback from people you respect,
+you're probably going to make other mistakes as well.
+
+## 8) Keep it visible.
+
+It's easy to start a blog and create a <s>Twitter</s> Mastodon account,
 but that very ease has reduced these channels' impact.
 Is there a newsletter you can be included in (which makes you look more official)?
 Can you make a presentation as part of some other event (rather than organizing a gathering of your own)?
 Can you get someone with a higher profile to mention what you're doing and point people your way?
 Can you post notices in the lunchroom? The elevator? The washrooms? Local restaurants?
-Some people will do things for t-shirts and stickers that they won't do for money...
-And always share a single point of contact that someone actually checks (frequently).
+T-shirts, stickers, and badges on websites or social media profiles
+are good ways to keep your cause in front of people.
 
-## 8)  Collect data but tell stories.
+A corollary to keeping your cause visible is to
+**always have a single point of contact**
+that someone actually checks frequently.
+Everyone is drowning in requests for attention;
+if they ask you a question or volunteer to help
+and don't get a quick, clear response,
+they're probably going to move on to something else.
 
-Sooner or later someone is going to ask what financial impact this change is going to have,
-so be ready for that.
-Data about other changes or from other organizations helps a lot,
-but data doesn't have nearly as powerful an impact as stories.
+## 9) Collect data but tell stories.
+
+Sooner or later someone is going to ask how many people change will affect
+or what financial impact it's going to have,
+so make sure you're ready for that.
+However,
+data doesn't have nearly as powerful an impact as stories:
+in most cases the person asking the question won't actually want the data,
+they just want to be reassured that you have it.
 Don't explain what *kind* of people this will help:
 explain how it helped a specific person,
 or how it would make a specific person's life better.
 And if you've never cried when telling that story,
 tell a better story.
 
-## 9)  Learn how to run meetings and make decisions.
+## 10) Learn how to run meetings and make decisions.
 
 You can get the change you want without being a great public speaker,
 but you *must* know how to run a meeting and make decisions.
+[These slides](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/)
+present a simple set of rules that would probably have been familiar to
+the builders of the pyramids:
 
-## 10) Celebrate when you can, grieve when you need to.
+1. Decide if there actually needs to be a meeting.
+1. Write an agenda.
+   -  With timings.
+   -  And put the most important topic first.
+1. Have a moderator.
+1. Require politeness.
+1. Record and post minutes.
+1. Have clear rules for:
+   -  Who gets a vote on what.
+   -  Making proposals.
+   -  Making decisions.
+
+## 11) Celebrate when you can, grieve when you need to.
 
 Burnout is an occupational hazard for everyone trying to make meaningful change,
 in part because we get so used to doing things on our own at the start
